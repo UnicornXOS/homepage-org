@@ -16,6 +16,7 @@
     "tailwindcss": "^4.1.1",
     "autoprefixer": "^10.4.16",
     "postcss": "^8.4.31"
+    "react-markdown": "^8.0.3"
   },
   "devDependencies": {
     "@types/react": "^18.2.21",
